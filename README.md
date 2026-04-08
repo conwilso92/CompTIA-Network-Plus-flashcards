@@ -1,4 +1,5 @@
 CompTIA Network+ (N10-009) Flashcard Study App
+
 A browser-based flashcard app designed for studying the CompTIA Network+ certification exam. 175 cards covering all 5 exam domains: Networking Fundamentals, Network Implementations, Network Operations, Network Security, and Network Troubleshooting.
 How to use:
 
